@@ -28,7 +28,7 @@ Positional:
 ### print help message
 
 ```
-$ Cargo run -- --help
+$ cargo run -- --help
 ```
 
 ### search
